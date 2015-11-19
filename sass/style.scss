@@ -463,4 +463,48 @@ footer{
 			margin: 50px 0px 0 0px;
 		}
 	}
+	footer{
+	margin-top: 100px;
+	text-align: center;
+	color: white;
+		.ft-titulo{
+			background-color: rgb(35,49,65);
+
+			p{
+				padding: 100px 0;
+				font-size: 28px;
+				font-weight: 400;
+					span{
+						color:rgb(103,214,255);
+						font-size: 34px;
+						font-weight: 700;
+						font-family: 'Open Sans', sans-serif;
+					}
+			}
+		}
+		.ft-info{
+			nav{
+				overflow: hidden;
+				text-align: center;
+
+				div{
+					float: none;
+					margin-top: 54px;
+					font-size: 13px;
+				}
+				ul{
+					float: none;
+					padding: 50px 0;
+					li{
+						display: inline-block;
+						a{
+
+						    margin-right: 15px;
+						}
+					}
+				}	
+
+			}
+		}	
+}
 }
