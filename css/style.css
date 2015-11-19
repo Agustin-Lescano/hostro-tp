@@ -243,7 +243,7 @@ footer {
 
   .wids li {
     margin: 0px 10px 32px 10px;
-    width: 47%; }
+    width: 46%; }
 
   .celular div .img-tel {
     width: 27%;
@@ -252,11 +252,11 @@ footer {
   .price {
     margin-top: -10px; }
     .price .tb-price {
-      width: 47%; }
+      width: 46%; }
 
   .container {
     width: 94%; } }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .logo {
     float: none;
     text-align: center;
@@ -322,10 +322,10 @@ footer {
       margin: 40px 0; }
     .price .tb-price {
       display: inherit;
-      width: 45%;
+      width: 44%;
       float: left;
       margin: 50px 12px 0 12px; } }
-@media screen and (max-width: 479px) {
+@media screen and (max-width: 480px) {
   .price {
     margin-top: 15px; }
     .price .container {
@@ -354,20 +354,6 @@ footer {
           color: #67d6ff;
           font-size: 34px;
           font-weight: 700;
-          font-family: 'Open Sans', sans-serif; }
-    footer .ft-info nav {
-      overflow: hidden;
-      text-align: center; }
-      footer .ft-info nav div {
-        float: none;
-        margin-top: 54px;
-        font-size: 13px; }
-      footer .ft-info nav ul {
-        float: none;
-        padding: 50px 0; }
-        footer .ft-info nav ul li {
-          display: inline-block; }
-          footer .ft-info nav ul li a {
-            margin-right: 15px; } }
+          font-family: 'Open Sans', sans-serif; } }
 
 /*# sourceMappingURL=style.css.map */
